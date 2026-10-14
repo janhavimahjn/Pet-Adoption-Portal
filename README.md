@@ -100,10 +100,4 @@ src/main/resources/application.properties
 * Email Notifications
 * Mobile Application Support
 
-## Author
 
-Janhavi Mahajan
-
-Bachelor of Engineering (Computer Engineering)
-
-Final Year Project
